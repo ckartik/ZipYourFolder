@@ -3,6 +3,6 @@ This script allows you to zip the contents of the directory it is in and place t
 
 ## Instructions
 1. Open up a shell, cd into the directory containing the script
-2. sh ```
+``` sh
 python3 package_files.py
 ```
